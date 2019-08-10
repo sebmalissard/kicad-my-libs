@@ -20,3 +20,4 @@ To finish set library format **Table**.
 
 Source of added libraries:
 * w_logic: http://smisioto.no-ip.org/kicad_libs/library/lib_w_logic.zip
+* max: https://github.com/aleksmk/kicad-libs
