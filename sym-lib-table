@@ -1,5 +1,6 @@
 (sym_lib_table
   (lib (name "max")(type "Legacy")(uri "${KICAD_MY_SYMBOL_DIR}/max.lib")(options "")(descr ""))
+  (lib (name "pololu")(type "Legacy")(uri "${KICAD_MY_SYMBOL_DIR}/pololu.lib")(options "")(descr "Pololu symbols"))
   (lib (name "promicro")(type "Legacy")(uri "${KICAD_MY_SYMBOL_DIR}/promicro.lib")(options "")(descr "Arduino ProMicro symbol"))
   (lib (name "teensy")(type "Legacy")(uri "${KICAD_MY_SYMBOL_DIR}/teensy.lib")(options "")(descr "Teensy symbols"))
   (lib (name "w_logic")(type "Legacy")(uri "${KICAD_MY_SYMBOL_DIR}/w_logic.lib")(options "")(descr ""))
