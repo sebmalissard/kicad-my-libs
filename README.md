@@ -7,6 +7,10 @@ My KiCad libraries.
 ```
 git clone https://github.com/sebmalissard/kicad-my-libs ${HOME}/ws/kicad/kicad-my-libs
 ```
+Synchronize fp-lib-table
+```
+meld ${HOME}/.config/kicad/fp-lib-table ${HOME}/Workspace/KiCad/kicad-footprints/fp-lib-table
+```
 
 ## Configuration
 
@@ -36,3 +40,7 @@ To finish set library format **Table**.
 * transistor_fet_ext
 * Transistor_FET
 * w_logic               http://smisioto.no-ip.org/kicad_libs/library/lib_w_logic.zip
+
+### Footprints
+
+* Promicro              https://github.com/Biacco42/ProMicroKiCad.git
