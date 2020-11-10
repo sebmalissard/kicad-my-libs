@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name Promicro) (type "KiCad") (uri ${KICAD_MY_LIBS_DIR}/footprints/Promicro.pretty) (options "") (descr "Arduino promicro"))
+  (lib (name Promicro) (type "KiCad") (uri "${KICAD_MY_LIBS_DIR}/footprints/Promicro.pretty") (options "") (descr "Arduino promicro"))
+  (lib (name Teensy) (type "KiCad") (uri "${KICAD_MY_LIBS_DIR}/footprints/Teensy.pretty") (options "") (descr "Teensy microcontrollers"))
 )

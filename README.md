@@ -44,3 +44,4 @@ To finish set library format **Table**.
 ### Footprints
 
 * Promicro              https://github.com/Biacco42/ProMicroKiCad.git
+* Teensy                https://github.com/XenGi/teensy.pretty
