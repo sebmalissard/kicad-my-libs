@@ -3,5 +3,6 @@
   (lib (name "Pololu")(type "Legacy")(uri "${KICAD_MY_SYMBOL_DIR}/Pololu.lib")(options "")(descr "Pololu symbols"))
   (lib (name "promicro")(type "Legacy")(uri "${KICAD_MY_SYMBOL_DIR}/promicro.lib")(options "")(descr "Arduino ProMicro symbol"))
   (lib (name "teensy")(type "Legacy")(uri "${KICAD_MY_SYMBOL_DIR}/teensy.lib")(options "")(descr "Teensy symbols"))
+  (lib (name "transistor_fet_ext")(type "Legacy")(uri "${KICAD_MY_SYMBOL_DIR}/transistor_fet_ext.lib")(options "")(descr "FET transistor extended symbols"))
   (lib (name "w_logic")(type "Legacy")(uri "${KICAD_MY_SYMBOL_DIR}/w_logic.lib")(options "")(descr ""))
 )
