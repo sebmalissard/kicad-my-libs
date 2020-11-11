@@ -20,7 +20,9 @@ To finish set library format **Table**.
 
 Source of added libraries:
 * max: https://github.com/aleksmk/kicad-libs
-* Pololu
+* Pololu:
 * promicro: https://github.com/Biacco42/ProMicroKiCad.git
 * teensy: https://github.com/XenGi/teensy_library.git (a57cd10e8221a7deaeb15a078e3f892c6f2311ad)
+* transistor_fet_ext:
+* Transistor_FET:
 * w_logic: http://smisioto.no-ip.org/kicad_libs/library/lib_w_logic.zip
