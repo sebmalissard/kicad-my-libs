@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Regulator_D24V22Fx
+D Pololu step-down voltage regulator D24V22Fx family
+K reg19a D24V22Fx
+F https://www.pololu.com/category/192/d24v22fx-step-down-voltage-regulators
+$ENDCMP
+#
 #End Doc Library
