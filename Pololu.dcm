@@ -6,4 +6,10 @@ K reg19a D24V22Fx
 F https://www.pololu.com/category/192/d24v22fx-step-down-voltage-regulators
 $ENDCMP
 #
+$CMP Regulator_D24V50F5
+D Pololu step-down voltage regulator D24V50F5
+K reg15d D24V50F5
+F https://www.pololu.com/product/2851
+$ENDCMP
+#
 #End Doc Library
