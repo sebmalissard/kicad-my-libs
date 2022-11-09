@@ -1,4 +1,5 @@
 (sym_lib_table
+  (lib (name "ESP8266")(type "Legacy")(uri "${KICAD_MY_SYMBOL_DIR}/ESP8266.lib")(options "")(descr "ESP8266 symbols"))
   (lib (name "max")(type "Legacy")(uri "${KICAD_MY_SYMBOL_DIR}/max.lib")(options "")(descr ""))
   (lib (name "Pololu")(type "Legacy")(uri "${KICAD_MY_SYMBOL_DIR}/Pololu.lib")(options "")(descr "Pololu symbols"))
   (lib (name "promicro")(type "Legacy")(uri "${KICAD_MY_SYMBOL_DIR}/promicro.lib")(options "")(descr "Arduino ProMicro symbol"))
