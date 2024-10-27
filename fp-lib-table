@@ -1,5 +1,6 @@
 (fp_lib_table
-  (lib (name Pololu) (type "KiCad") (uri "${KICAD8_FOOTPRINT_DIR}/Pololu.pretty") (options "") (descr "Pololu"))
+  (lib (name ESP8266) (type "KiCad") (uri "${KICAD_MY_LIBS_DIR}/footprints/ESP8266.pretty") (options "") (descr "ESP8266 modules"))
+  (lib (name Pololu) (type "KiCad") (uri "${KICAD_MY_LIBS_DIR}/footprints/Pololu.pretty") (options "") (descr "Pololu"))
   (lib (name Promicro) (type "KiCad") (uri "${KICAD_MY_LIBS_DIR}/footprints/Promicro.pretty") (options "") (descr "Arduino promicro"))
   (lib (name Teensy) (type "KiCad") (uri "${KICAD_MY_LIBS_DIR}/footprints/Teensy.pretty") (options "") (descr "Teensy microcontrollers"))
 )
