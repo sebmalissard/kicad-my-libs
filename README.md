@@ -21,9 +21,17 @@ KICAD_MY_LIBS_DIR = ${HOME}/ws/kicad/kicad-my-libs
 
 ## Symbols
 
-Add the library in KiCad Eeschema, go to "Preferences" > "Manage Symbol Libraries..."
+Add symbols library in KiCad, go to "Preferences" > "Manage Symbol Libraries..."
 
 Then set the library path "${HOME}/ws/kicad/kicad-my-libs/symbols/sym-lib-table"
+
+To finish set library format **Table**.
+
+## Footprints
+
+Add footprints library in KiCad, go to "Preferences" > "Manage Footprint Libraries..."
+
+Then set the library path "${HOME}/ws/kicad/kicad-my-libs/footprints/fp-lib-table"
 
 To finish set library format **Table**.
 
@@ -43,7 +51,11 @@ To finish set library format **Table**.
 
 ### Footprints
 
+* Button_Switch_THT_ext
+* Connector_Molex
+* Converter_ACDC
 * ESP8266               https://github.com/jdunmire/kicad-ESP8266.git (1f3d2c6e49285d4ab4976efc04913bd3974290c1)
+* MountingHole_ext
 * Pololu
 * Promicro              https://github.com/Biacco42/ProMicroKiCad.git
 * Teensy                https://github.com/XenGi/teensy.pretty
