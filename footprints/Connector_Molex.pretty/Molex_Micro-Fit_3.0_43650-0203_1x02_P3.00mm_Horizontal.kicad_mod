@@ -268,7 +268,7 @@
 		(remove_unused_layers no)
 		(uuid "3657f65c-819a-4b32-9419-553cc82c8625")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Micro-Fit_3.0_43650-0203_1x02_P3.00mm_Horizontal.step"
+	(model "${KICAD_MY_LIBS_DIR}/packages3D/Connector_Molex.3dshapes/Molex_Micro-Fit_3.0_43650-0203_1x02_P3.00mm_Horizontal.step"
 		(offset
 			(xyz -1.549999929 -3.930000008 2.400000059)
 		)

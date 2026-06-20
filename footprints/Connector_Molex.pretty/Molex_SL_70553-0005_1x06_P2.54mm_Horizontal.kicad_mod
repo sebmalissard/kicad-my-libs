@@ -46,7 +46,7 @@
   (pad 4 thru_hole circle (at -7.62 0) (size 1.65 1.65) (drill 1.1) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at -10.16 0) (size 1.65 1.65) (drill 1.1) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at -12.7 0) (size 1.65 1.65) (drill 1.1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_Molex.3dshapes/Molex_SL_70553-0001_1x02_P2.54mm_Horizontal.wrl
+  (model ${KICAD_MY_LIBS_DIR}/packages3D/Connector_Molex.3dshapes/Molex_SL_70553-0001_1x02_P2.54mm_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

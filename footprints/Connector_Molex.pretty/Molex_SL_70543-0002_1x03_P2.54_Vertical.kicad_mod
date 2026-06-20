@@ -25,7 +25,7 @@
   (pad 1 thru_hole circle (at 0 0) (size 1.725 1.725) (drill 1.15) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 2.54 0) (size 1.725 1.725) (drill 1.15) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 5.08 0) (size 1.725 1.725) (drill 1.15) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_Molex.3dshapes/Molex_SL_70543-0002_1x03_P2.54_Vertical.step
+  (model ${KICAD_MY_LIBS_DIR}/packages3D/Connector_Molex.3dshapes/Molex_SL_70543-0002_1x03_P2.54_Vertical.step
     (offset (xyz 2.5 0 8))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

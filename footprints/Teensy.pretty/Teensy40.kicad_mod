@@ -85,7 +85,7 @@
   (pad 42 thru_hole circle (at 8.89 2.54) (size 1.6 1.6) (drill 1.1) (layers *.Cu *.Mask))
   (pad 43 thru_hole circle (at 11.43 5.08) (size 1.6 1.6) (drill 1.1) (layers *.Cu *.Mask))
   (pad 44 thru_hole circle (at 8.89 5.08) (size 1.6 1.6) (drill 1.1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Teensy.3dshapes/Teensy_4.0_Assembly.step
+  (model ${KICAD_MY_LIBS_DIR}/packages3D/Teensy.3dshapes/Teensy_4.0_Assembly.step
     (offset (xyz 33 9.5 -11))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

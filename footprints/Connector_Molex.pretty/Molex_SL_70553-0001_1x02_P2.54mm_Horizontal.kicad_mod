@@ -39,7 +39,7 @@
   (fp_circle (center 0 -1.28) (end 0 -1.155) (layer F.SilkS) (width 0.25))
   (pad 1 thru_hole circle (at 0 0) (size 1.65 1.65) (drill 1.1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -2.54 0) (size 1.65 1.65) (drill 1.1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_Molex.3dshapes/Molex_SL_70553-0001_1x02_P2.54mm_Horizontal.wrl
+  (model ${KICAD_MY_LIBS_DIR}/packages3D/Connector_Molex.3dshapes/Molex_SL_70553-0001_1x02_P2.54mm_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
