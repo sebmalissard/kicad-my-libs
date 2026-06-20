@@ -337,7 +337,7 @@
 		(remove_unused_layers no)
 		(uuid "40a9bb0a-9dd0-4c3b-9b36-1212cbda6c9b")
 	)
-	(model "${KISYS3DMOD}/promicro.3dshapes/Arduino_Pro_Micro.step"
+	(model "${KICAD_MY_LIBS_DIR}/packages3D/promicro.3dshapes/Arduino_Pro_Micro.step"
 		(offset
 			(xyz 15 7.5 -32.5)
 		)

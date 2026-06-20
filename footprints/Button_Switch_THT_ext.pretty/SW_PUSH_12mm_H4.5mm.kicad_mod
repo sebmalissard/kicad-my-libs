@@ -13,7 +13,7 @@
   (pad 1 thru_hole circle (at 5.08 2.54) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at -7.62 2.54) (size 2 2) (drill 1.2) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -7.62 -2.54) (size 2 2) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_PUSH_12mm_H4.5mm.step
+  (model ${KICAD_MY_LIBS_DIR}/packages3D/Button_Switch_THT.3dshapes/SW_PUSH_12mm_H4.5mm.step
     (offset (xyz -7.25 6 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))
