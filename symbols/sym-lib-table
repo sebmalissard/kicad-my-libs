@@ -8,4 +8,5 @@
   (lib (name "transistor_fet_ext") (type "Legacy") (uri "${KICAD_MY_LIBS_DIR}/symbols/transistor_fet_ext.lib") (options "") (descr "FET transistor extended symbols"))
   (lib (name "w_logic") (type "Legacy") (uri "${KICAD_MY_LIBS_DIR}/symbols/w_logic.lib") (options "") (descr ""))
   (lib (name "XIAO_Series") (type "KiCad") (uri "${KICAD_MY_LIBS_DIR}/symbols/XIAO_Series.kicad_sym") (options "") (descr "Seeed Studio XIAO Series"))
+  (lib (name "EasyEDA") (type "KiCad") (uri "${KICAD_MY_LIBS_DIR}/symbols/easyeda2kicad.kicad_sym") (options "") (descr "EasyEDA"))
 )

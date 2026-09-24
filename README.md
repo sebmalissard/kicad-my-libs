@@ -41,6 +41,7 @@ To finish set library format **Table**.
 * teensy                https://github.com/XenGi/teensy_library.git (a57cd10e8221a7deaeb15a078e3f892c6f2311ad)
 * w_logic               http://smisioto.no-ip.org/kicad_libs/library/lib_w_logic.zip
 * XIAO_Series           https://github.com/Seeed-Studio/OPL_Kicad_Library (b0035c51eb0348bb3e165fdb2f2765fa3d1d17bd)
+* EasyEDA               easyeda2kicad --full --lcsc_id=C910042
 
 ### Footprints
 
@@ -48,9 +49,11 @@ To finish set library format **Table**.
 * Promicro              https://github.com/Biacco42/ProMicroKiCad.git
 * Teensy                https://github.com/XenGi/teensy.pretty
 * XIAO_Series           https://github.com/Seeed-Studio/OPL_Kicad_Library (b0035c51eb0348bb3e165fdb2f2765fa3d1d17bd)
+* EasyEDA               easyeda2kicad --full --lcsc_id=C910042
 
 ### Package 3D
 
 * ESP8266               https://github.com/jdunmire/kicad-ESP8266.git (1f3d2c6e49285d4ab4976efc04913bd3974290c1)
 * Teensy                https://github.com/XenGi/teensy.pretty
 * XIAO_Series           https://www.printables.com/model/1338408-3d-model-for-seeed-studio-xiao-esp32c6
+* EasyEDA               easyeda2kicad --full --lcsc_id=C910042
